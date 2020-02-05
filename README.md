@@ -1,2 +1,2 @@
 # MagicSquare
-## An AP Computer Science A Project
+### An AP Computer Science A Project
